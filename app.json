@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ticket",
-    "slug": "ticket",
+    "name": "Ticket2",
+    "slug": "ticket2",
     "description": "This is a Ticket App",
     "privacy": "public",
     "version": "1.0.0",
@@ -14,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/e43e88e2-29a2-4af8-85e8-523573424d80"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -34,8 +35,11 @@
     },
     "extra": {
       "eas": {
-        "projectId": "46a06784-2f8a-4c27-9e37-399279df1882"
+        "projectId": "e43e88e2-29a2-4af8-85e8-523573424d80"
       }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
